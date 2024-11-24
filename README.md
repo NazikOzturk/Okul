@@ -1,6 +1,9 @@
 <h1> Film Sitesi </h1>
 
-Çeşitli filmleri, dizileri izleme imkanı sunar
+<h2>Kullanılan Teknolojiler</h2>
+
+HTML
+CSS
 
 <h2> Ekran Görüntüsü </h2>
 
